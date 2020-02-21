@@ -1,0 +1,25 @@
+.app {
+  color: blue;
+  text-align: center;
+}
+
+.nodata {
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+th,
+td {
+  width: 150px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+button {
+  cursor: pointer;
+}

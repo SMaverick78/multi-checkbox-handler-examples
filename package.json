@@ -1,0 +1,12 @@
+{
+  "name": "multi-checkbox-handler",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}
